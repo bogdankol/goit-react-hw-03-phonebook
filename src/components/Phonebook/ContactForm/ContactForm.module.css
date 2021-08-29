@@ -1,0 +1,20 @@
+.form {
+    display:flex;
+    flex-direction: column;
+    padding: 10px 0;
+}
+.label {
+    margin-right: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.input {
+    width: 70%;
+}
+.btn {
+    width: 100px;
+    align-self: center;
+    padding: 10px;
+    margin-top: 20px;
+    font-size: 14px;
+}
